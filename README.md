@@ -8,4 +8,3 @@ Following is Figma design.
 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/101833474/194223915-39fa35bc-8848-44a8-8576-18c7def05627.png)
-
