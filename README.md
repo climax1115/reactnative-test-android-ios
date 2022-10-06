@@ -1,4 +1,4 @@
-# reactnative-test-android-ios
+# Mobile App Test using React Native for Android and iOS
 I built this using React Native based on Figma Design.
 I coded in Visual Studio Code and tested at Android Studio Emulator.
 Through building this app to debug-version apk, I finally built it to release-version apk.
